@@ -1,7 +1,7 @@
-sd=float(input('Enter starting distance'))
-ed=float(input('Enter stopping distance'))
-st=float(input('Enter starting time'))
-et=float(input('Enter stopping time'))
+sd=float(input('Enter starting distance '))
+ed=float(input('Enter stopping distance '))
+st=float(input('Enter starting time '))
+et=float(input('Enter stopping time '))
 d=ed-sd
 t=et-st
 v1=sd/st
