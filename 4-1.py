@@ -22,7 +22,10 @@ print(f'Usd Change{changeusd:^22.4f}')
 
 
 
-
+num=2
+while num<=512:
+    print(num)
+    num+=2
 
 
 
