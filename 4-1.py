@@ -18,3 +18,22 @@ print(f'Usd Yesterday{usdytd:^16.4f}')
 print(f'Usd Today{cadtd:^24.4f}')
 print(f'Usd Change{changeusd:^22.4f}')
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
