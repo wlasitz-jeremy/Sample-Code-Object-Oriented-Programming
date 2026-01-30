@@ -4,10 +4,10 @@ print(f'{course:<20}')
 print(f'{course:20}')
 print(f'{"Centered":^20}\n')
 
-cadtd= 1
-usdtd= 0.74357
-cadytd= 1
-usdytd= 0.73658
+cadtd= 1.2798
+usdtd= 0.940
+cadytd= 2.7843
+usdytd= 2.050
 changeusd= (usdtd-usdytd)
 changecad= (cadtd-cadytd)
 print(f'{"Date":^10}{"Rate":^20}')
