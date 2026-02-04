@@ -1,9 +1,9 @@
 kpm=1.61
-print(f'{"MPH"}',f'{"KPH":>8}')
-
+print(f'{"MPH"}',f'{"KPH":>10}')
+print('==========',"==========")
 for mph in range(10,80,10):
     kph=mph*kpm
-    print(f'{mph}{kph:>9.0f}')
+    print(f'{mph:10d}{kph:>10.0f}')
 
 
 
