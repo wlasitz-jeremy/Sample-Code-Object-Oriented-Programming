@@ -14,14 +14,15 @@ print(RC.lower())
 
 course=input("Enter course name: ")
 alpha=0
-digit=0
-for letter in course:
+beta=0
+charlie=0
+for charlie in course:
     if course.isalpha():
         alpha+=1
     else:
         if course.isalnum():
-            digit+=1
-print(alpha,digit)
+            beta+=1
+print(alpha,beta)
 
 
 
