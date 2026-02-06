@@ -25,7 +25,7 @@ for charlie in course:
 print(alpha,beta)
 
 
-slide 22 practice task
+slide 21 practice task
 
 
 
