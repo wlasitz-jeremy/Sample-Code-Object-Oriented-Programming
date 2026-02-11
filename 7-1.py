@@ -5,3 +5,4 @@ first=min(names)
 print(first)
 print(max(names))
 del names
+print(names)
